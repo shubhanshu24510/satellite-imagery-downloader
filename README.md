@@ -59,18 +59,21 @@ If you need to download an image from a different map service, you can try to ge
 ## Examples
 
 Images in full resolution: https://mega.nz/folder/7sxTwALS#n2bFCYk9JsiU7nbVQH-ntw
+<img width="480" alt="Screenshot 2023-12-23 100349" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/80c3d115-f6f6-4cd3-9e74-6b51719ebd49">
 
-![](img/img_2.png)
 <nobr><sup><sup>© 2022 Google</sup></sup></nobr>
+<img width="259" alt="Screenshot 2023-12-23 100535" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/63fd7faf-f461-4ff8-85af-72e2a7be05a2">
 
-![](img/img_3.png)
+
 <nobr><sup><sup>© 2022 Google</sup></sup></nobr>
+<img width="423" alt="Screenshot 2023-12-23 100202" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/bafd21cd-2d8b-4904-b60d-49993ac4c6d6">
 
-![](img/img_4.png)
-<nobr><sup><sup>© 2022 Google</sup></sup></nobr>
+<nob<img width="172" alt="Screenshot 2023-12-23 100028" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/40526696-cd5c-4423-a641-d1590ca45e90">
+r><sup><sup>© 2022 Google</sup></sup></nobr>
 
-![](img/img_5.png)
-<nobr><sup><sup>© 2023 Google</sup></sup></nobr>
-
-![](img/img_6.png)
+<nobr><sup><sup>© 2023 G<img width="423" alt="Screenshot 2023-12-23 100202" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/e3f5b13d-be39-4adb-9dec-fc410d5e4218">
 <nobr><sup><sup>© OpenStreetMap</sup></sup></nobr>
+
+oogle</sup></sup></nobr><img width="193" alt="Screenshot 2023-12-23 100253" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/bbc08227-bdbc-4079-9117-65bbb48d0f88">
+
+
