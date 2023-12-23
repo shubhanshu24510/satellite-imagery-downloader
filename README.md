@@ -72,8 +72,9 @@ Images in full resolution: https://mega.nz/folder/7sxTwALS#n2bFCYk9JsiU7nbVQH-nt
 r><sup><sup>© 2022 Google</sup></sup></nobr>
 
 <nobr><sup><sup>© 2023 G<img width="423" alt="Screenshot 2023-12-23 100202" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/e3f5b13d-be39-4adb-9dec-fc410d5e4218">
-<nobr><sup><sup>© OpenStreetMap</sup></sup></nobr>
 
-oogle</sup></sup></nobr><img width="193" alt="Screenshot 2023-12-23 100253" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/bbc08227-bdbc-4079-9117-65bbb48d0f88">
+<nobr><sup><sup>© OpenStreetMap</sup></sup></nobr>
+<img width="259" alt="Screenshot 2023-12-23 100535" src="https://github.com/shubhanshu24510/satellite-imagery-downloader/assets/100926922/043e7aa6-7719-4973-a65d-75d511718969">
+
 
 
